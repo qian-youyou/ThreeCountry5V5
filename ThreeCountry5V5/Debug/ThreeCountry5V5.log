@@ -1,0 +1,7 @@
+﻿  Play.cpp
+f:\visual studio 2015\c++\days\19_3_10\threecountry5v5\threecountry5v5\play.cpp(30): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  main.cpp
+  ThreeCountry5V5.vcxproj -> F:\visual studio 2015\C++\days\19_3_10\ThreeCountry5V5\Debug\ThreeCountry5V5.exe
+  ThreeCountry5V5.vcxproj -> F:\visual studio 2015\C++\days\19_3_10\ThreeCountry5V5\Debug\ThreeCountry5V5.pdb (Full PDB)
